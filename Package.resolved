@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-argument-parser",
+        "repositoryURL": "https://github.com/apple/swift-argument-parser",
+        "state": {
+          "branch": null,
+          "revision": "d2930e8fcf9c33162b9fcc1d522bc975e2d4179b",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "SwiftSoup",
+        "repositoryURL": "https://github.com/scinfu/SwiftSoup.git",
+        "state": {
+          "branch": null,
+          "revision": "11da8c685ddde2d519fad04a7daf8485bbbc773e",
+          "version": "1.7.5"
+        }
+      },
+      {
+        "package": "TelegramBotSDK",
+        "repositoryURL": "https://github.com/zmeyc/telegram-bot-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "c03186fdbde69be648be33c57793a2d83c5a8256",
+          "version": "2.1.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
